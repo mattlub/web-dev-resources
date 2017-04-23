@@ -13,6 +13,8 @@ vanilla Javascript (for the web), which I have collated and categorised. Most of
 - compilation of free online courses organised as a full CS curriculum- [link](https://ossu.firebaseapp.com/#/curriculum)
 - google technical development guide- [link](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - 2017 front-end dev handbook - [link](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
+- Real World apps- see how the same app can be built using different front-end/back-end techonologies- [link](https://github.com/gothinkster/realworld)
+- Web developer roadmap 2017 - [link](https://github.com/kamranahmedse/developer-roadmap)
 
 ### Javascript
 - Javascript- Understanding the weird parts, first 3.5 hours for free ([youtube video](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts))
