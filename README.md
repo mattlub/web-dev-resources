@@ -26,4 +26,9 @@ vanilla Javascript (for the web), which I have collated and categorised. Most of
 - CSS Tricks- [link](https://css-tricks.com/)
 
 ### React
-- Full-stack React book- not free but looks good, with lots of examples- [link](https://www.fullstackreact.com/)
+- [Full-stack React book](https://www.fullstackreact.com/)- not free but looks good, with lots of examples
+- [React’s Five Fingers of Death](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3) - a quick overview of the five or six most important things to understand about React.
+- [Facebook's Official React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html) - This is a good introduction to most of the React concepts and best-practices.
+- Wes Bos' [React For Beginners]() - A 30-video paid course that covers pretty much the entirety of building a single-page app in React (using Firebase for authentication/data storage).
+- [React Training](https://online.reacttraining.com/) - expensive but has a good free basics course
+- Udemy highly rated [React + Redux course](https://www.udemy.com/react-redux/)
