@@ -23,7 +23,9 @@ vanilla Javascript (for the web), which I have collated and categorised. Most of
 - Anjana Vakil: Learning Functional Programming with JavaScript- 30 min [youtube video](https://www.youtube.com/watch?v=e-5obm1G_FY)
 
 ### CSS
-- CSS Tricks- [link](https://css-tricks.com/)
+- [CSS Diner](https://flukeout.github.io/)- learn the different css selectors
+- [CSS Tricks](https://css-tricks.com/)- A site with loads of good tutorials/short articles- usually the first result which comes up when searching.
+- Learn [CSS Layout](http://learnlayout.com/)- recommended clear tutorial on css layouts/positioning etc.
 
 ### React
 - [Full-stack React book](https://www.fullstackreact.com/)- not free but looks good, with lots of examples
