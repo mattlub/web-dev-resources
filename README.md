@@ -3,6 +3,8 @@
 The following links are useful (beginner-friendly) learning resources, mainly for HTML, CSS and
 vanilla Javascript (for the web), which I have collated and categorised. Most of them were originally shared by members of the FAC community.
 
+**Please feel free to contribute!** 
+
 ### General
 - [CanIUse.com](http://caniuse.com/)- website which quickly shows browser compatibility for different features
 - Article about preparing for a front end web developer interview - [link](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
@@ -34,3 +36,8 @@ vanilla Javascript (for the web), which I have collated and categorised. Most of
 - Wes Bos' [React For Beginners]() - A 30-video paid course that covers pretty much the entirety of building a single-page app in React (using Firebase for authentication/data storage).
 - [React Training](https://online.reacttraining.com/) - expensive but has a good free basics course
 - Udemy highly rated [React + Redux course](https://www.udemy.com/react-redux/)
+
+### PWAs
+- 3-day [PWA workshop](https://github.com/sohilpandya/Progressive-Web-App-Workshop) run at CodeNode
+- Curriculum for instructor-led training course for teaching Progressive Web Apps concepts, developed by Google Developer Training- [pdf link](https://drive.google.com/file/d/0B9xlQg9XpugsRDhVMGg4VDFOS2c/view)
+- PWA intro [slides](http://slides.com/oliverphillips/pwa#/) by @oliverjam
